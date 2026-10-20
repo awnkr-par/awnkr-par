@@ -4,12 +4,9 @@ TO EDIT: Open README.md on GitHub -> click the pencil icon -> change the text ->
 Text in this comment won't show on your public profile.
 To reorder projects, move their lines in the PROJECTS table.
 To add a project, copy one complete table row (the line starting with |).
-The banner art lives in assets/banner.svg and can also be edited on GitHub.
 No build process, tools, or special permissions needed.
 -->
 <div align="center">
-  <img src="./assets/banner.svg" alt="awnkr-par midnight blue profile banner" width="100%" />
-  
   <h3>Hey, I'm awnkr-par 👋</h3>
   <p>I build apps, experiment with systems, and make tools I actually want to use.</p>
   
