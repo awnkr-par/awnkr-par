@@ -12,10 +12,7 @@ No build process, tools, or special permissions needed.
   
   <h3>Hey, I'm awnkr-par 👋</h3>
   <p>I build apps, experiment with systems, and make tools I actually want to use.</p>
-  <p>
-    <img src="https://img.shields.io/badge/Theme-Midnight%20Blue-14365e?style=flat-square" alt="Midnight Blue" />
-    <img src="https://img.shields.io/badge/Focus-Projects%20%26%20Experiments-3675bf?style=flat-square" alt="Projects and experiments" />
-  </p>
+  
 </div>
 
 ## 🌙 About me
@@ -33,12 +30,10 @@ No build process, tools, or special permissions needed.
 
 | Project | What it is |
 |:--|:--|
-| **[MazClient](https://github.com/awnkr-par/maz-client)** | Custom Minecraft client and launcher experiments |
+| **[MazClient](https://github.com/awnkr-par/maz-client)** | Custom Minecraft client |
 | **[LiteSR](https://github.com/awnkr-par/litesr)** | Lightweight recording and streaming software |
 | **[no-OS](https://github.com/awnkr-par/no-os)** | Operating system experiments |
-| **[LarpGPT](https://github.com/awnkr-par/larpgpt)** | AI-powered Discord bot |
-| **[Steven Bot](https://github.com/awnkr-par/steven-bot)** | Discord counting and moderation features |
-| **[Flame Browser](https://github.com/awnkr-par/flame-browser)** | Browser project |
+
 
 ## ⚡ Tools & technologies
 
