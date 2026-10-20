@@ -29,7 +29,7 @@ No build process, tools, or special permissions needed.
 |:--|:--|
 | **[MazClient](https://github.com/awnkr-par/maz-client)** | Custom Minecraft client |
 | **[LiteSR](https://github.com/awnkr-par/litesr)** | Lightweight recording and streaming software |
-| **[no-OS](https://github.com/awnkr-par/no-os)** | Operating system experiments |
+| **[noOS](https://github.com/awnkr-par/no-os)** | Operating system experiments |
 
 
 ## ⚡ Tools & technologies
