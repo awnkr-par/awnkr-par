@@ -8,7 +8,7 @@ No build process, tools, or special permissions needed.
 -->
 <div align="center">
   <h3>Hey, I'm awnkr-par 👋</h3>
-  <p>I build apps, experiment with systems, and make tools I actually want to use.</p>
+  <p>rahhhhh</p>
   
 </div>
 
