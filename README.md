@@ -7,17 +7,17 @@ To add a project, copy one complete table row (the line starting with |).
 No build process, tools, or special permissions needed.
 -->
 <div align="center">
-  <h3>Hey, I'm awnkr-par 👋</h3>
-  <p>rahhhhh</p>
+  <h3>Parsley</h3>
+  
   
 </div>
 
-## 🌙 About me
+##  About me
 
-- 🛠️ Building software, Minecraft tools, and side projects.
-- 🧪 Always experimenting with new ideas.
-- 💻 Interested in programming, system software, and desktop apps.
-- 🚀 I like turning random ideas into working projects.
+-  Building software, Minecraft tools, and side projects.
+-  Always experimenting with new ideas.
+-  Interested in programming, system software, and desktop apps.
+-  I like turning random ideas into working projects.
 
 <!-- EDIT THIS SECTION: change, add, or delete any lines above. -->
 
@@ -32,7 +32,7 @@ No build process, tools, or special permissions needed.
 | **[noOS](https://github.com/awnkr-par/no-os)** | Operating system experiments |
 
 
-## ⚡ Tools & technologies
+##  Tools & technologies
 
 <!-- EDIT SKILLS: remove any badge you don't want, or add more using shields.io. -->
 <p>
@@ -43,7 +43,7 @@ No build process, tools, or special permissions needed.
   <img src="https://img.shields.io/badge/Windows-152b4d?style=for-the-badge&logo=windows&logoColor=87bdff" alt="Windows"/>
 </p>
 
-## 📌 What I'm working on
+##  What I'm working on
 
 <!-- EDIT CURRENT WORK: replace the bullet points whenever you want. -->
 - Improving **MazClient**
