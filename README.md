@@ -8,7 +8,7 @@ No build process, tools, or special permissions needed.
 -->
 <div align="center">
   <h3>Parsley Ohxi</h3>
-  <p>VOIDSIDE SWORDFIGHT - Azali</p>
+  <p>🎵 PLAYFUL MASSACRE - Azali</p>
   
   
 </div>
